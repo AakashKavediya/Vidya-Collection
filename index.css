@@ -9,21 +9,64 @@ h2
 {
     text-align: center;
     border: 8px double black;
+    color: black;
+    background-color: #fff;
+}
+.man i
+{
+    color: aqua;
+    margin-left: 40px;
+    padding: 5px;
+    border: 3px solid aqua;
+}
+.man
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 5px solid white;
 }
 h3  
 {
-    border: 3px solid black;
+    color:white;
+}
+h1
+{
+    color: #fff;
+}
+p
+{
+    width: 99%;
     text-align: center;
-    margin-top: 10px;
+    justify-content: center;
+    color: #fff;
+}
+.para
+{
+    width: 100%;
+    text-align: center;
 }
 body
 {
     scroll-behavior: smooth;
+    background-color:black;
     text-align: center;
+    color: white;
+}
+.icon
+{
+    padding-top: 10px;
+    border-top: 5px solid #fff;
 }
 .stomach
 {
     margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    height: 95vh;
+    background-size: cover;
 }
 .box
 {
