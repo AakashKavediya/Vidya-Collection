@@ -10,16 +10,13 @@ h2
     text-align: center;
     border: 8px double black;
 }
-body
-{
-    display: flex;
-}
+
 .box
 {
     height: 100%;
     width: 200px;
     text-align: center;
-    display: inline-block;
+    display: flex;
     margin-top: 10px;
     border:3px solid black; 
     margin-left: 10px;
