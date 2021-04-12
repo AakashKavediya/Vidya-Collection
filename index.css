@@ -13,6 +13,11 @@ h2
 h3  
 {
     border: 3px solid black;
+    text-align: center;
+}
+body
+{
+    background-color: lightblue;
 }
 .box
 {
