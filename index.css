@@ -10,7 +10,10 @@ h2
     text-align: center;
     border: 8px double black;
 }
-
+h3  
+{
+    border: 3px solid black;
+}
 .box
 {
     height: 100%;
