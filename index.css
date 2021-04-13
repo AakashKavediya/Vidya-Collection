@@ -37,6 +37,8 @@ h1
 p
 {
     width: 99%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
     text-align: center;
     justify-content: center;
     color: #fff;
@@ -50,6 +52,7 @@ body
 {
     scroll-behavior: smooth;
     background-color:black;
+    height: 100%;
     text-align: center;
     color: white;
 }
@@ -65,7 +68,7 @@ body
     justify-content: center;
     margin-right: auto;
     margin-left: auto;
-    height: 130vh;
+    height: 100vh;
     background-size: cover;
 }
 .box
